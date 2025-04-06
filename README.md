@@ -18,5 +18,5 @@
 </div>
 <br/>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | Quarto Semestre | Em busca de aprendizado e desafios.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | Quinto Semestre | Em busca de aprendizado e desafios.
 
